@@ -23,3 +23,5 @@ Open to freelance and full-time AI application engineer roles, remote or Egypt-b
 
 ## Contact
 - Email: ahmedddwaleed@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ahmed-waleedd/
+   
