@@ -22,5 +22,5 @@ Open to freelance and full-time AI application engineer roles, remote or Egypt-b
 - **Tools:** Docker, Git / GitHub Actions, Streamlit, Telegram bot API
 
 ## Contact
-[Email](ahmedddwaleed@gmail.com) · [LinkedIn](add later)
+[ahmedddwaleed@gmail.com](mailto:ahmedddwaleed@gmail.com) · [LinkedIn](add later)
 
